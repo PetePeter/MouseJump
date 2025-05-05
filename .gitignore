@@ -367,4 +367,5 @@ FodyWeavers.xsd
 
 # keep Libs folder
 !Libs/
-!Libs/MouseKeyboardActivityMonitor/
+!Libs/MouseKeyboardActivityMonitor/*
+!Libs/MouseKeyboardActivityMonitor/*/*
