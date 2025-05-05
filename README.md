@@ -1,8 +1,6 @@
 # MouseJump
 windows app for the mouse cursor jumping to bookmarked or centre position 
 
-# (coming soon - it's an old app i wrote, ill upload to github  this weekend when i get time)
-
 # Instructions.
 
 MouseJump adds an icon near the clock thingo of your computer.
@@ -23,11 +21,11 @@ Keyboard
 -	Alt+Scrollwheel: Navigate through saved points forward and backward.
 
 Mouse
--	Double middleclick to open up overlay. Once overlay is open:
-	o	Any keyboard key to exit.
-	o	Long single middle click on overlay: add the cursor position to stack.
-	o	Scroll wheel spin: select another bookmark.
-	o	Left click: jump to (but don’t consume) selected bookmark and close overlay
-	o	Right click: jump to and consume selected bookmark and close overlay
-	o	Right click on selected bookmark: remove selected bookmark but don’t close  overlay.
-	o	Middle click: Save current cursor  position as top of the stack and jump to the selected position. 
+Double middleclick to open up overlay. Once overlay is open:
+*	Any keyboard key to exit.
+*	Long single middle click on overlay: add the cursor position to stack.
+* Scroll wheel spin: select another bookmark.
+* Left click: jump to (but don’t consume) selected bookmark and close overlay
+* Right click: jump to and consume selected bookmark and close overlay
+* Right click on selected bookmark: remove selected bookmark but don’t close*verlay.
+* Middle click: Save current cursor  position as top of the stack and jump to the selected position. 
